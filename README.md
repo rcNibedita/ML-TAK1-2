@@ -1,15 +1,15 @@
 ![Workflow](https://github.com/user-attachments/assets/b8745e61-aa47-4327-8891-801f809db671)
-Differential Contact-Based Machine Learning Classification
+## **Differential Contact-Based Machine Learning Classification**
 
-Overview
+## **Overview**
 
 This repository contains a novel AI/ML-based pipeline for identifying key structural features underlying the allosteric regulation of TAK1. By leveraging differential contact-based feature selection and various machine learning (ML) and deep learning (DL) classifiers, this approach provides an efficient framework for structural classification and visualization.
 
-Workflow
+## **Workflow**
 
 
 
-Data Preparation & Feature Pre-Screening
+## **Data Preparation & Feature Pre-Screening**
 
 Raw datasets capture internal topology from molecular dynamics trajectories.
 
