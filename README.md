@@ -38,9 +38,9 @@ This repository contains an AI/ML-based pipeline for identifying key structural 
 
 ## Key Highlights
 
-- **Differential Contact Selection**: Identifies residue pairs contributing to key structural deviations between ‘apo’ and ‘regulated’ conformations.
+- **Differential Contact Selection**: Identifies residue pairs contributing to key contact deviations between ‘apo’ and ‘regulated’ conformations.
 - **Hybrid AI/ML Approach**: Combines traditional ML models with advanced DL techniques.
-- **SHAP-Based Interpretability**: Ensures unbiased feature selection across ML and DL models.
+- **SHAP-Based Interpretability**: Ensures unbiased feature selection across DL models.
 - **Network Visualization**: Converts feature importance scores into interpretable molecular contact networks.
 
 ## Installation & Dependencies
@@ -48,7 +48,7 @@ This repository contains an AI/ML-based pipeline for identifying key structural 
 Ensure the following Python packages are installed:
 
 ```bash
-pip install numpy pandas scikit-learn xgboost shap
+pip install numpy pandas scikit-learn xgboost shap imodelsx
 ```
 ## Running the Pipeline
 1. Pre-screen the dataset:
