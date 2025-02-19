@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains an AI/ML-based pipeline for identifying key structural features underlying the allosteric regulation of TAK1. By leveraging differential contact-based feature selection and various machine learning (ML) and deep learning (DL) classifiers, this approach provides an efficient framework for structural classification and visualization of important features in VMD network representation.
+This repository contains an AI/ML-based pipeline for identifying key structural features underlying the multifaceted allosteric regulation of TAK1. By leveraging differential contact-based feature selection and various machine learning (ML) and deep learning (DL) classifiers, this approach provides an efficient framework for structural classification and visualization of important features in VMD network representation.
 
 ## Workflow
 
@@ -39,7 +39,7 @@ This repository contains an AI/ML-based pipeline for identifying key structural 
 ## Key Highlights
 
 - **Differential Contact Selection**: Identifies residue pairs contributing to key contact deviations between ‘apo’ and ‘regulated’ conformations.
-- **Hybrid AI/ML Approach**: Combines traditional ML models with advanced DL techniques.
+- **Hybrid AI/ML Approach**: Combines traditional DL models with SHAP scoring technique.
 - **SHAP-Based Interpretability**: Ensures unbiased feature selection across DL models.
 - **Network Visualization**: Converts feature importance scores into interpretable molecular contact networks.
 
